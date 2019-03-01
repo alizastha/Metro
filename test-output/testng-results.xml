@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22149" started-at="2019-03-01T04:31:48Z" finished-at="2019-03-01T04:32:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22149" started-at="2019-03-01T04:31:48Z" finished-at="2019-03-01T04:32:10Z">
+      <class name="test.metrotest">
+        <test-method status="PASS" signature="metroTest()[pri:0, instance:test.metrotest@7946e1f4]" name="metroTest" duration-ms="22116" started-at="2019-03-01T10:16:48Z" finished-at="2019-03-01T10:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- metroTest -->
+      </class> <!-- test.metrotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
